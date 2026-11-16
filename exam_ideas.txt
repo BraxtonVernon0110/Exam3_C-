@@ -1,0 +1,16 @@
+Any sports like baseball I can implement the field players and rules and I can add stats to those players while. 
+-Baseball -rules -players -atBats 
+might be a lot of work and might be able to random text like outs might need 
+srikes could be thrown 62% of the time and balls 38% of of the time
+shortstop(17%)
+Second(14%)
+centerField(16%)
+LF(14%)
+3B(12%)
+RF(12%)
+1B(9%)
+Pitcher or Cathcer(7%)
+
+Board Game like sorry or monopoly
+
+
